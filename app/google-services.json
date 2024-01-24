@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "936978724705",
+    "firebase_url": "https://my-cie-app-default-rtdb.firebaseio.com",
+    "project_id": "my-cie-app",
+    "storage_bucket": "my-cie-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:936978724705:android:c7fd2066af4c0971caf720",
+        "android_client_info": {
+          "package_name": "com.example.mycie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "936978724705-1n0qu41jesihl88f82pgmf3clggh15gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf_R3lUAF_N6PjzZWItKctTh518NQYb54"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "936978724705-1n0qu41jesihl88f82pgmf3clggh15gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
